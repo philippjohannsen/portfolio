@@ -1,8 +1,8 @@
 # Data Scientist
 
 ### Education
-Physics, Msc.
-Physics, Bsc.
+- Physics, Msc.
+- Physics, Bsc.
 
 ### Work Experience
 Medical physicist and radiation protection expert @ OUH
